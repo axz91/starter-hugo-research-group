@@ -3,7 +3,7 @@ widget: hero
 widget_id: page
 headless: true
 weight: 10
-title: "Sequencing Master "
+title: Sequencing Master LLC
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-At **Sequencing Master LLC**, we provided an interdisplinary data analysis service for biomedical researchers.
+At **Sequencing Master**, we provided an interdisplinary data analysis service for biomedical researchers.
